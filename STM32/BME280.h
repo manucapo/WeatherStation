@@ -1,10 +1,3 @@
-/*
- * BME280.h
- *
- *  Created on: 21 Mar 2023
- *      Author: manol
- */
-
 #ifndef BME280_H_
 #define BME280_H_
 

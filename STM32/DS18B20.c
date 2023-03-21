@@ -1,10 +1,3 @@
-/*
- * DS18B20.c
- *
- *  Created on: 21 Mar 2023
- *      Author: manol
- */
-
 #include "DS18B20.h"
 
 int DS18ResetPulse(){

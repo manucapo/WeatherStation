@@ -1,10 +1,3 @@
-/*
- * OneWire.h
- *
- *  Created on: 17 Mar 2023
- *      Author: manol
- */
-
 #ifndef ONEWIRE_H_
 #define ONEWIRE_H_
 

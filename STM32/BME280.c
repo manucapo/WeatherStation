@@ -1,10 +1,3 @@
-/*
- * BME280.c
- *
- *  Created on: 21 Mar 2023
- *      Author: manol
- */
-
 #include "BME280.h"
 
 uint16_t dig_T1 = 0;

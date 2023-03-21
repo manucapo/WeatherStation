@@ -1,10 +1,3 @@
-/*
- * Delay.h
- *
- *  Created on: 17 Mar 2023
- *      Author: manol
- */
-
 #ifndef DELAY_H_
 #define DELAY_H_
 
