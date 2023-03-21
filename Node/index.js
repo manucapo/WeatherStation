@@ -7,7 +7,7 @@ import  http  from 'http';
 
 const port = 3000;
 const app = express();
-const root = "C:/Users/manol/Desktop/Courses/test-project"
+const root = "XXXXXXXXXXXXXXXXXXX"
 
 let _temperatureData = '';
 let _humidityData = '';
